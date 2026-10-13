@@ -9,16 +9,16 @@ e saídas e respeitar a capacidade máxima da sala (50 pessoas).
 Sala de cinema
 
 ## Integrantes
-- [Mariana de Paula Aguiar] - RM [566850]
-- [Gustavo Miguel Martins de Oliveira] - RM [566666] 
+- Mariana de Paula Aguiar - RM566850
+- Gustavo Miguel Martins de Oliveira - RM566666 
 
 ## Vídeo de demonstração
-tem q fazer ainda
+[Assistir ao vídeo no YouTube](https://youtu.be/6TBexwU87rw)
 
 ## Como executar
 1. Instale o Flutter e configure um emulador ou dispositivo.
 2. Clone o repositório:
-   `git clone [URL DO REPOSITÓRIO]`
+   `git clone [https://github.com/marianaaguiar27/flutter_application_1.git]`
 3. Entre na pasta e instale as dependências:
    `flutter pub get`
 4. Execute:
